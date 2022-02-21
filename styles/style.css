@@ -1,0 +1,35 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: slateblue;
+}
+
+header {
+    background: #535353;
+    height: 20px;
+    margin: 0 0 20px 0px;
+    padding: 20px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+.active {
+    color: #00FF00;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+#bucket {
+    width: 330px;
+    cursor: pointer;
+}
+
+.paper {
+    width: 60px;
+    cursor: pointer;
+    position: absolute;
+}
